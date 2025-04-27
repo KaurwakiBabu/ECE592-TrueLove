@@ -1,9 +1,3 @@
-<!-- 
-
-Code for Gazebo world used for testing. Includes a green field and a circular, red object that represents the "letter"
-
--->
-
 <?xml version="1.0" ?>
 <sdf version="1.9">
   <world name="iris_flight_testing">
