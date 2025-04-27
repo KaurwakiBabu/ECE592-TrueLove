@@ -1,3 +1,9 @@
+"""
+
+Main function tracks an object based on the color category and returns the HSV of the center pixel of the "blob"
+Used for testing as the center pixel hsv is printed and used to better identify threshold algorithm
+
+"""
 import cv2
 import numpy as np
 import xml.etree.ElementTree as ET
