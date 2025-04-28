@@ -3,9 +3,9 @@
 This repository includes all documents necessary in final project deliverables including the final report and short video. 
 
 #### Team Members
-  Jennifer Jimenez
-  Kaurwaki Babu
-  Michael Felt 
+- Jennifer Jimenez
+- Kaurwaki Babu
+- Michael Felt 
 ####
 
 The following information is located in the ./bin folder, but reiterated below for easy access. 
